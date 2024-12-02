@@ -1,4 +1,9 @@
 Self-Review Questionnaire: Security and Privacy
 ===============================================
 
-<https://w3ctag.github.io/security-questionnaire/>
+DEPRECATED
+
+See [w3ctag/security-questionnaire](https://github.com/w3ctag/security-questionnaire)
+
+
+[](https://www.w3.org/TR/security-privacy-questionnaire/)
